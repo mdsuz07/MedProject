@@ -1,0 +1,19 @@
+{
+  "name": "medproject",
+  "version": "1.0.0",
+  "description": "My 1st project in node JS for MedService",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdsuz07/MedProject.git"
+  },
+  "author": "mdsuz07",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdsuz07/MedProject/issues"
+  },
+  "homepage": "https://github.com/mdsuz07/MedProject#readme"
+}
